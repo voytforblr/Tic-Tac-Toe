@@ -1,0 +1,1 @@
+java -jar KSIS_lab4.jar
